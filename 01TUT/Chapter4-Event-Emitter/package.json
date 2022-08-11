@@ -1,0 +1,19 @@
+{
+  "name": "chapter4-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "div": "nodemon index"
+  },
+  "author": "Hamad",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}

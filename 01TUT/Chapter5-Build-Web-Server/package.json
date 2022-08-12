@@ -1,11 +1,11 @@
 {
   "name": "chapter5-build-web-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "express",
+  "main": "server.js",
   "scripts": {
-    "start": "node index",
-    "div": "nodemon index"
+    "start": "node server",
+    "div": "nodemon server"
   },
   "author": "Hamad",
   "license": "ISC",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "date-fns": "^2.29.1",
+    "express": "^4.18.1",
     "uuid": "^8.3.2"
   }
 }

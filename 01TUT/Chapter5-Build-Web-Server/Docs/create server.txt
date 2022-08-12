@@ -1,0 +1,16 @@
+1- imports   const http = require('http');
+
+2-  defined port
+const PORT = process.env.PORT || 3500;
+
+3- create server 
+const server = http.createServer((req,res)=>{
+    console.log(req.url, req.method);
+})
+
+4- listen 
+server.listen(PORT,()=>{
+    console.log('Server running on port: ',PORT);
+
+})
+

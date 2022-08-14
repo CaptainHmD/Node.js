@@ -1,6 +1,6 @@
 {
     "recommendations": [
         "xabikos.javascriptsnippets",
-        "xabikos.JavaScriptSnippets"
+        "esbenp.prettier-vscode"
     ]
 }

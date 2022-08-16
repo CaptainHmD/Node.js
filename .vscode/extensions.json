@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "xabikos.javascriptsnippets",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "vscode-icons-team.vscode-icons"
     ]
 }
